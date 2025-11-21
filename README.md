@@ -1,25 +1,73 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E91E5&center=true&vCenter=true&width=435&lines=Hello,+I'm+Thunder;FiveM+Developer;UI%2FUX+Designer;Youtuber" alt="Typing SVG" />
+  
+  <br/>
 
-<h1 align="center">Hi 👋, I'm Thunder</h1>
-<h3 align="center">I AM A FIVEM DEVELOPER</h3>
+  <a href="https://discord.gg/zpEuBHrA56">
+    <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:thunderboy3779@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/thunderboy gamer">
+    <img src="https://img.shields.io/badge/YouTube-Thunder_Boy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunder-tb&label=Profile%20views&color=0e75b6&style=flat" alt="thunder-tb" /> </p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>⚡ About Me</h2>
+      <p>
+        I am a creative developer focused on building immersive experiences for the <b>FiveM</b> community. I combine high-performance code with stunning visual design.
+      </p>
+      <br/>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Custom Frameworks & UI Design</li>
+        <li>🎨 <b>Design Stack:</b> Blender, Figma, Adobe Suite</li>
+        <li>💻 <b>Dev Stack:</b> Lua, JS, Node.js, MySQL</li>
+        <li>📫 <b>Reach Me:</b> thunderboy3779@gmail.com</li>
+      </ul>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=thunder-tb&label=TOTAL+VIEWS&color=2E91E5&style=for-the-badge" alt="thunder-tb" />
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/zpEuBHrA56](https://discord.gg/zpEuBHrA56)
+<h3 align="center">🚀 Languages & Tools</h3>
 
-- 📫 How to reach me **thunderboy3779@gmail.com**
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br/>
+  <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/thunderboy gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thunderboy gamer" height="30" width="40" /></a>
-</p>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<br/>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunder-tb&show_icons=true&locale=en&layout=compact" alt="thunder-tb" /></p>
+<h3 align="center">📊 Development Statistics</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thunder-tb&show_icons=true&locale=en" alt="thunder-tb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thunder-tb&" alt="thunder-tb" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thunder-tb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thunder-tb&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="langs"/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thunder-tb&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+</div>
